@@ -8,20 +8,19 @@ date: 2026-01-04 10:31:01
 
 
 
+# Subscribe to Us
 
-# 订阅《我们》
+## Subscribe to Feeds
 
-## 订阅 Feed 流
+Currently, the following three feed formats are supported:
 
-目前支持以下三种 Feed （什么是 [Feed 流](https://www.zhihu.com/question/20690652)）：
+- [Atom](https://www.ixacg.com/atom.xml)
+- [JSON](https://www.ixacg.com/feed.json)
+- [RSS (Recommended)](https://www.ixacg.com/rss.xml)
 
-- [Atom](https://www.ixacg.com/zh/atom.xml)
-- [JSON](https://www.ixacg.com/zh/feed.json)
-- [RSS (推荐)](https://www.ixacg.com/zh/rss.xml)
+## Follow on Social Platforms
 
-## 社交平台关注
+We are currently present on the following platforms:
 
-目前在以下三个平台有入驻
-
-- [哔哩哔哩]()
-- [微博]()
+- [Bilibili]()
+- [Weibo]()

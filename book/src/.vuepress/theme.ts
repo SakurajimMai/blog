@@ -12,6 +12,7 @@ export default hopeTheme({
   },
 
   logo: "/logo.png",
+  favicon: "/favicon.ico",
 
   repo: "SakurajimMai",
   license: "CC-BY-NC-SA-4.0",

@@ -2,40 +2,39 @@
 home: true
 layout: Blog
 icon: house
-title: 博客主页
+title: Blog Home
 heroImage:
-heroText: 你博客的名称
+heroText: Your Blog Name
 heroFullScreen: false
-tagline: 你可以在这里放置你的口号与标语
+tagline: You can place your slogan and tagline here
 projects:
   - icon: folder-open
-    name: 项目名称
-    desc: 项目详细描述
-    link: https://你的项目链接
+    name: Project Name
+    desc: Project detailed description
+    link: https://your-project-link
 
   - icon: link
-    name: 链接名称
-    desc: 链接详细描述
-    link: https://链接地址
+    name: Link Name
+    desc: Link detailed description
+    link: https://link-address
 
   - icon: book
-    name: 书籍名称
-    desc: 书籍详细描述
-    link: https://你的书籍链接
+    name: Book Name
+    desc: Book detailed description
+    link: https://your-book-link
 
   - icon: newspaper
-    name: 文章名称
-    desc: 文章详细描述
-    link: https://你的文章链接
+    name: Article Name
+    desc: Article detailed description
+    link: https://your-article-link
 
   - icon: user-group
-    name: 伙伴名称
-    desc: 伙伴详细介绍
-    link: https://你的伙伴链接
+    name: Partner Name
+    desc: Partner detailed introduction
+    link: https://your-partner-link
 
   - icon: https://theme-hope-assets.vuejs.press/logo.svg
-    name: 自定义项目
-    desc: 自定义详细介绍
-    link: https://你的自定义链接
-
+    name: Custom Project
+    desc: Custom detailed introduction
+    link: https://your-custom-link
 ---

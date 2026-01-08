@@ -15,11 +15,14 @@ actions:
     link: ./demo/
     type: primary
 
-  - text: Docs
-    link: ./guide/
+  - text: Blog
+    link: https://www.ixacg.com/blog/
+
+  - text: Github →
+    link: https://github.com/SakurajimMai
 
 copyright: false
-footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> | MIT Licensed, Copyright © 2019-present Mr.Hope
+footer: Theme by <a href="/" target="_blank">Keep Learning</a> | MIT Licensed, Copyright © 2026-present Sakurajiamai
 ---
 
 ## About This Site

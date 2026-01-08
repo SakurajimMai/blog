@@ -2,7 +2,7 @@
 home: true
 icon: house
 title: 项目主页
-heroImage: http://clay-wangzhi.com/Kubernetes.svg
+heroImage: 
 bgImage:
 bgImageDark:
 bgImageStyle:
@@ -15,11 +15,14 @@ actions:
     link: ./demo/
     type: primary
 
-  - text: 文档
-    link: ./guide/
+  - text: 博客
+    link: https://www.ixacg.com/blog/
+
+  - text: Github →
+    link: https://github.com/SakurajimMai
 
 copyright: false
-footer: 使用 <a href="/zh" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-至今 Sakurajiamai
+footer: <a href="/zh" target="_blank">Keep Learning</a> | MIT 协议, 版权所有 © 2026-至今 Sakurajiamai
 ---
 
 ## 关于本站

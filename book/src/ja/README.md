@@ -1,34 +1,37 @@
 ---
 home: true
 icon: house
-title: 项目主页
-heroImage: http://clay-wangzhi.com/Kubernetes.svg
+title: Project home
+heroImage: 
 bgImage:
 bgImageDark:
 bgImageStyle:
   background-attachment: fixed
 heroText: Keep Learning
-tagline: 身为一条被时间拉长的低维生物，我无福消受浅薄的快乐，只能在对宇宙的沉思中，以此为戏，至死方休。
+tagline: 時間によって引き伸ばされた低次元の存在である私は、浅薄な快楽を享受する資格もなく、ただ宇宙への沈思の中にのみ遊びを見いだし、それを戯れとして、死に至るまで歩み続ける。
 actions:
-  - text: 使用指南
+  - text: How to Use
     icon: lightbulb
     link: ./demo/
     type: primary
 
-  - text: 文档
-    link: ./guide/
+  - text: Blog
+    link: https://www.ixacg.com/blog/
+
+  - text: Github →
+    link: https://github.com/SakurajimMai
 
 copyright: false
-footer: 使用 <a href="/zh" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-至今 Sakurajiamai
+footer: 使用 <a href="/ja" target="_blank">Keep Learning</a> | MIT Licensed, Copyright © 2026-present Sakurajiamai
 ---
 
-## 关于本站
+## 当サイトについて
 
-总结、沉淀技术文章，以便自己回顾和他人参考。
+技術記事をまとめ、整理することで、自分の振り返りや他の人の参考にするためのサイトです。
 
-感谢各位一起同行，共勉！
+共に歩んでくださる皆さんに感謝し、励まし合いましょう！
 
-## 推荐阅读
+## おすすめの読み物
 
-- [SRE 学习路线]()
-- [云原生实践总结]()
+- [SRE 学習ロードマップ]()
+- [クラウドネイティブ実践まとめ]()
