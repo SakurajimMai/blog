@@ -1,7 +1,7 @@
 ---
-title: Git Tools
+title: Git Command
 createTime: 2026/01/06 14:50:45
-permalink: /en/tools/gitcommand/
+permalink: /en/tools/github/gitcommand/
 icon: pajamas:git
 ---
 

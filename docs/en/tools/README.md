@@ -10,7 +10,7 @@ The Comprehensive Toolkit aims to lower the barrier to entry for users when util
 
 ## Tool List
 
-<LinkCard title="Git Configuration and Usage Tutorial" href="./gitcommand.md" icon="pajamas:git" />
+<LinkCard title="Git Configuration and Usage Tutorial" href="./github/gitcommand.md" icon="pajamas:git" />
 
 ## Third-Party Tools
 

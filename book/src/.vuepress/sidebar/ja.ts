@@ -2,9 +2,8 @@ import { sidebar } from "vuepress-theme-hope";
 
 export const jaSidebar = sidebar({
   "/ja/blog/": false,
+  "/ja/database/": "structure",
   "/ja/": [
-    "",
-    "portfolio",
     {
       text: "案例",
       icon: "laptop-code",

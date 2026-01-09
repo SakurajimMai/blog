@@ -1,7 +1,7 @@
 ---
-title: Gitツール
+title: Git常用コマンド早見表
 createTime: 2026/01/06 14:50:45
-permalink: /ja/tools/gitcommand/
+permalink: /ja/tools/github/gitcommand/
 icon: pajamas:git
 ---
 

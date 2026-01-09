@@ -1,7 +1,7 @@
 ---
-title: Git工具
+title: Git常用命令速查表
 createTime: 2026/01/06 14:50:45
-permalink: /tools/gitcommand/
+permalink: /tools/github/gitcommand/
 icon: pajamas:git
 ---
 

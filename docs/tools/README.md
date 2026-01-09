@@ -10,7 +10,7 @@ permalink: /tools/
 
 ## 工具列表
 
-<LinkCard title="Git相关配置使用教程" href="./gitcommand.md" icon="pajamas:git" />
+<LinkCard title="Git相关配置使用教程" href="./github/gitcommand.md" icon="pajamas:git" />
 
 ## 第三方工具
 

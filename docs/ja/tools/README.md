@@ -10,7 +10,7 @@ permalink: /ja/tools/
 
 ## ツール一覧
 
-<LinkCard title="Git関連設定・使用チュートリアル" href="./gitcommand.md" icon="pajamas:git" />
+<LinkCard title="Git関連設定・使用チュートリアル" href="./github/gitcommand.md" icon="pajamas:git" />
 
 ## サードパーティツール
 

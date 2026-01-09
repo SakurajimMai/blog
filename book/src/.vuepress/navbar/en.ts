@@ -1,6 +1,7 @@
 import { navbar } from "vuepress-theme-hope";
 
 export const enNavbar = navbar([
+  "/database/",
   "/demo/",
   {
     text: "Blog",
@@ -29,6 +30,23 @@ export const enNavbar = navbar([
         icon: "lightbulb",
         prefix: "foo/",
         children: ["ray", { text: "...", icon: "ellipsis", link: "#" }],
+      },
+    ],
+  },
+  {
+    text: 'More',
+    icon: 'icon-park-outline:more-three',
+    children: [
+      { text: 'FAQ', link: '/zh/faq/', icon: 'wpf:faq' },
+      { text: 'Tools', link: '/zh/tools/', icon: 'jam:tools' },
+      { text: 'Friends', link: '/zh/friends', icon: 'carbon:friendship' },
+      {
+        text: 'Vuepress',
+        icon: 'logos:vue',
+        children: [
+          { text: 'Official Document', link: 'https://v2.vuepress.vuejs.org', icon: 'logos:vue' },
+          { text: 'Ecosystem', link: 'https://ecosystem.vuejs.press/', icon: 'logos:vue' },
+        ],
       },
     ],
   },
