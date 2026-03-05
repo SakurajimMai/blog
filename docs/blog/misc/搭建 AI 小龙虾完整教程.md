@@ -1,8 +1,10 @@
 ---
-title: Hysteria2|第二代hysteria节点搭建教程
+title: 2 美元搭建 AI 小龙虾完整教程
 tags:
   - openclaw
 cover: https://s2.ixacg.com/2026/03/05/1772698626.avif
+createTime: 2026/03/05 16:28:13
+permalink: /blog/atcbu8su/
 ---
 
 # 2 美元搭建 AI 小龙虾完整教程（OpenClaw + Zeabur）
@@ -15,13 +17,13 @@ cover: https://s2.ixacg.com/2026/03/05/1772698626.avif
 - 只是想测试 AI 小龙虾
 - 不想一开始投入太多成本的人
 
+<!-- more -->
+
 核心原则只有一句话：
 
 **先用最低成本跑通流程。**
 
 等真正用起来，再考虑升级服务器。
-
-<!-- more -->
 
 ### 二、准备两样样东西
 
