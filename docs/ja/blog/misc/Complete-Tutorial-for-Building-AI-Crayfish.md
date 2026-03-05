@@ -4,7 +4,7 @@ tags:
   - openclaw
 cover: https://s2.ixacg.com/2026/03/05/1772698626.avif
 createTime: 2026/03/05 16:28:13
-permalink: /blog/atcbu8su/
+permalink: /ja/blog/atcbu8su/
 ---
 
 # 2ドルでAIザリガニを構築する完全チュートリアル（OpenClaw + Zeabur）

@@ -4,7 +4,7 @@ tags:
   - openclaw
 cover: https://s2.ixacg.com/2026/03/05/1772699706.avif
 createTime: 2026/03/05 16:28:13
-permalink: /blog/atcbu8su/
+permalink: /en/blog/atcbu8su/
 ---
 
 # Complete Tutorial for Building an AI Crayfish for $2 (OpenClaw + Zeabur)
