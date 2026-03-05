@@ -37,9 +37,9 @@ export const enNavbar = navbar([
     text: 'More',
     icon: 'icon-park-outline:more-three',
     children: [
-      { text: 'FAQ', link: '/zh/faq/', icon: 'wpf:faq' },
-      { text: 'Tools', link: '/zh/tools/', icon: 'jam:tools' },
-      { text: 'Friends', link: '/zh/friends', icon: 'carbon:friendship' },
+      { text: 'FAQ', link: '/en/faq/', icon: 'wpf:faq' },
+      { text: 'Tools', link: '/en/tools/', icon: 'jam:tools' },
+      { text: 'Friends', link: '/en/friends', icon: 'carbon:friendship' },
       {
         text: 'Vuepress',
         icon: 'logos:vue',

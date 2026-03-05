@@ -124,3 +124,41 @@ git push --tags
     # 上传所有标签
 ```
 
+### 代理
+
+#### 方案 A：HTTP/HTTPS 协议
+
+```shell
+# 设置全局代理
+git config --global http.proxy http://127.0.0.1:7890
+git config --global https.proxy http://127.0.0.1:7890
+
+# 仅对当前仓库生效
+git config http.proxy http://127.0.0.1:7890
+git config https.proxy http://127.0.0.1:7890
+```
+
+#### 方案 B：SOCKS5 协议
+
+```shell
+# 设置全局代理
+git config --global http.proxy socks5://127.0.0.1:7890
+git config --global https.proxy socks5://127.0.0.1:7890
+# 仅对当前仓库生效
+git config http.proxy socks5://127.0.0.1:7890
+git config https.proxy socks5://127.0.0.1:7890
+```
+
+#### 取消代理设置
+
+```shell
+# 验证是否成功
+git config --list --local
+# 取消全局
+git config --global --unset http.proxy
+git config --global --unset https.proxy
+# 取消当前仓库的 HTTP 代理
+git config --unset http.proxy
+git config --unset https.proxy
+```
+
