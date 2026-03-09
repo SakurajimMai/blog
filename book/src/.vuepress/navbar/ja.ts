@@ -44,7 +44,7 @@ export const jaNavbar = navbar([
         text: 'Vuepress',
         icon: 'logos:vue',
         children: [
-          { text: '公式ドキュメント', link: 'https://v2.vuepress.vuejs.org', icon: 'logos:vue' },
+          { text: 'OpenClaw', link: 'https://clawreport.ixacg.com', icon: 'game-icons:crab-claw' },
           { text: '生態系', link: 'https://ecosystem.vuejs.press/', icon: 'logos:vue' },
         ],
       },

@@ -44,7 +44,7 @@ export const zhNavbar = navbar([
         text: 'Vuepress',
         icon: 'logos:vue',
         children: [
-          { text: '官方文档', link: 'https://v2.vuepress.vuejs.org', icon: 'logos:vue' },
+          { text: 'OpenClaw', link: 'https://clawreport.ixacg.com', icon: 'game-icons:crab-claw' },
           { text: '生态系统', link: 'https://ecosystem.vuejs.press/', icon: 'logos:vue' },
         ],
       },

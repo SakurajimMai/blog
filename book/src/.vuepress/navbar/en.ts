@@ -44,7 +44,7 @@ export const enNavbar = navbar([
         text: 'Vuepress',
         icon: 'logos:vue',
         children: [
-          { text: 'Official Document', link: 'https://v2.vuepress.vuejs.org', icon: 'logos:vue' },
+          { text: 'OpenClaw', link: 'https://clawreport.ixacg.com', icon: 'game-icons:crab-claw' },
           { text: 'Ecosystem', link: 'https://ecosystem.vuejs.press/', icon: 'logos:vue' },
         ],
       },
