@@ -1,6 +1,8 @@
 ---
 title: 酒馆常用插件合辑
 icon: devicon:cloudflareworkers
+createTime: 2026/01/26 11:34:19
+permalink: /tools/bxaqy9sa/
 ---
 
 ::: tip
